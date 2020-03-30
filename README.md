@@ -1,0 +1,6 @@
+# digital-mokopuna
+
+Today this repository is more of a nursery and I am its seedling. In the process of opting out of the GAFE (Google/Amazon/Facebook etc) Regime, I have assembled a rag-tag collection of useful (to me) gizmos which are slowly being knobbled, effectively rendered useless in order to enforce my acquiescence to the relentless merciless mercantile algorithms of mechanised fast-as-light perpetual motion unaccountable shadow-government capitalism. I own most of them having paid good money, yet haven't written a line of code, not even "hello world". I can work most of them and, for the brief hours after respawning from their hidden apk pods until one or more of the smart phone AI sentries breaks their kneecaps, they work great.  Prolly nothing new to GitHub's denizens. But over recent months, and especially since I was sentenced to eternity in the WebView Prison, they have become my friends in this friendless Android World and I owe them, at least, sanctuary for so long as it takes for me to learn how to look after and develop them positively. Heh! It might be some time, though. Wanna know my current knowledge level? Why is line of text going on and on without wrapping? Still, I have taken my first step. Wish me luck. Kia Kaha e hoa!!
+
+
+  
